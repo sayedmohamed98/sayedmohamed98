@@ -3,7 +3,6 @@
 
 # Elsayed Mohamed Elsayed
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayed-mohamed-603509142/)](https://www.linkedin.com/in/sayed-mohamed-603509142/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/sayedmohamed98)](https://github.com/sayedmohamedscu)
 
 - 📧 Email: sayedmohamedscu@gmail.com
 - 📞 Phone: +201020284853

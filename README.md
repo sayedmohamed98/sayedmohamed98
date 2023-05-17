@@ -2,7 +2,7 @@
 
 
 # Elsayed Mohamed Elsayed
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayed-mohamed-603509142/)](https://www.linkedin.com/in/sayed-mohamed-603509142/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsayed-mohamed-603509142/)](https://www.linkedin.com/in/elsayed-mohamed-603509142/)
 
 - 📧 Email: sayedmohamedscu@gmail.com
 - 📞 Phone: +201020284853

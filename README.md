@@ -23,6 +23,10 @@ I have worked with multiple startups
 
 ## Work Experience
 
+### Computer Vision Engineer at PaxeraHealth (11/2023 – Present)
+
+Custom 2D / 3D solutions for tumor segmentation / NLP solutions
+
 ### Computer Vision Engineer at Devisionx (03/2023 – Present)
 
 Tuba Auto AI-Vision Platform
@@ -92,18 +96,19 @@ R&D WiFi sensing and Deep learning solutions under supervision of DR / Twfik Ism
 
 ## Technical Skills
 
-- General Purpose Languages: Python, C, C++, Dart, Swift
+- General Purpose Languages: Python,C#, C, C++, Dart, Swift
 - Machine & Deep Learning: PyTorch, Keras, TensorFlow, ONNX
 - Data Manipulation & Analysis: Numpy, Pandas, Scipy, Facebook HiPlot
 - Computer Vision/Image Processing: OpenCV, Tesseract, PIL, MATLAB
+- 3D : VTK /ITK 
 - API Deployment: FastAPI, Flask, Docker
 - Domain-Specific/4th Generation Languages: MATLAB, Simulink, LabVIEW
 - Mobile Development: Flutter, iOS Development
 
 ## Other Tools & Skills
 
-- Digital Signal Processing, Applied Mathematics, Computer Architecture, Circuit Design
-- Cloud: AWS (EC2, ECS, Rekognition)
+- Digital Signal Processing, Medical imaging ,Applied Mathematics, Computer Architecture, Circuit Design
+- Cloud: AWS (EC2, ECS,BedRock aws, Rekognition) Azure  / GCP
 - Microcontroller Experience: PIC16F, PIC18F, Atmega328/32/16, Arduino
 - Digital Fabrication: 3D Printers (RepRap), Laser Cutters
 - Others: Proteus, EagleCAD, Android Studio, Xcode

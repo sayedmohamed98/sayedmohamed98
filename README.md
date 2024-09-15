@@ -27,7 +27,7 @@ I have worked with multiple startups
 
 Custom 2D / 3D solutions for tumor segmentation / NLP solutions
 
-### Computer Vision Engineer at Devisionx (03/2023 – Present)
+### Computer Vision Engineer at Devisionx 
 
 Tuba Auto AI-Vision Platform
 
